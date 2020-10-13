@@ -110,13 +110,13 @@ Negative
 インストール方法に関しては以下のQiitaの記事を参考にしてください。
 
 **Windowsの場合**
-[Node.jsをインストールする - Qiita](https://qiita.com/sefoo0104/items/0653c935ea4a4db9dc2b)
+- [Node.jsをインストールする - Qiita](https://qiita.com/sefoo0104/items/0653c935ea4a4db9dc2b)
 
 **Mac OSの場合**
-[MacにNode.jsをインストール - Qiita](https://qiita.com/kyosuke5_20/items/c5f68fc9d89b84c0df09)
+- [MacにNode.jsをインストール - Qiita](https://qiita.com/kyosuke5_20/items/c5f68fc9d89b84c0df09)
 
 **Ubuntuの場合**
-[Ubuntuに最新のNode.jsを難なくインストールする - Qiita](https://qiita.com/seibe/items/36cef7df85fe2cefa3ea)
+- [Ubuntuに最新のNode.jsを難なくインストールする - Qiita](https://qiita.com/seibe/items/36cef7df85fe2cefa3ea)
 
 ※検証環境が無かったため全て未検証です。
 上記OS以外を利用されている方、インストールが上手くいかないという方はDiscordにて遠慮なく質問してください！
@@ -182,11 +182,13 @@ Web開発に特化した「WebStorm」、PHPなら「PHPStorm」、PythonならP
 折角の学生のうちですので、まずは一度インストールしてみて合うか合わないか見てみるのも良いかと思います！
 
 詳しくは以下を参考にしてみてください。
-[JetBrainsの学割の申請方法について - Qiita](https://qiita.com/tetrapod117/items/92f965cf1928739b70e4)
+- [JetBrainsの学割の申請方法について - Qiita](https://qiita.com/tetrapod117/items/92f965cf1928739b70e4)
 
 WebStormのメリットはこちら
-[ウェブ制作にはWebStormがお勧め！使いこなせば操作が爆速になる機能のまとめ - ics.media](https://ics.media/entry/11642/)
+- [ウェブ制作にはWebStormがお勧め！使いこなせば操作が爆速になる機能のまとめ - ics.media](https://ics.media/entry/11642/)
 
 
 ## 参考
 Duration: 00:00:00
+
+[Firebase CLI リファレンス - Firebase](https://firebase.google.com/docs/cli?hl=ja)
