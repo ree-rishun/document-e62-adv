@@ -1,6 +1,6 @@
 author: ReERishun
 summary: Firebaseハンズオン用のセットアップ資料
-id: doc
+id: docs
 categories: codelab,markdown
 environments: Web
 status: Published
