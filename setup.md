@@ -1,6 +1,6 @@
 author: ReERishun
 summary: Firebaseハンズオン用のセットアップ資料
-id: 20201017firebase-handes-on-setup
+id: doc
 categories: codelab,markdown
 environments: Web
 status: Published
